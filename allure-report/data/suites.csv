@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Dec 30 13:35:15 PKT 2023","Sat Dec 30 13:35:38 PKT 2023","23014","","Test Verify Parent Section","test_parent_browse_webinar","","","test_parent_browse_webinar.py Link",""
+"passed","Sat Dec 30 13:35:38 PKT 2023","Sat Dec 30 13:35:57 PKT 2023","18755","","Test Verify Parent Section","test_parent_student_list","","","test_parent_student_list.py Link",""
+"passed","Sat Dec 30 13:36:16 PKT 2023","Sat Dec 30 13:36:35 PKT 2023","19104","","Test Verify Parent Section","test_parent_teacher_meeting","","","test_parent_teacher_meeting.py Link",""
+"passed","Sat Dec 30 13:35:57 PKT 2023","Sat Dec 30 13:36:16 PKT 2023","18682","","Test Verify Parent Section","test_parent_student_attendance","","","test_parent_student_attendance.py Link",""
+"passed","Sat Dec 30 13:36:35 PKT 2023","Sat Dec 30 13:36:54 PKT 2023","19030","","Test Verify Parent Section","test_parent_invoices","","","test_parent_invoices.py Link",""
+"passed","Sat Dec 30 13:34:57 PKT 2023","Sat Dec 30 13:35:15 PKT 2023","18576","","Test Verify Parent Section","test_parent_browse_course","","","test_parent_browse_course.py Link",""
+"passed","Sat Dec 30 13:34:38 PKT 2023","Sat Dec 30 13:34:57 PKT 2023","18723","","Test Verify Parent Section","test_parent_dashboard","","","test_parent_dashboard.py Link",""
